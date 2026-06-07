@@ -8,8 +8,8 @@ Features:
 - Division 
 - Division With Modulus 
 - Finding Power of a Number
-- Finding Square Rootof a Number
+- Finding Square Root of a Number
 - Finding Cube of a Number
 - Finding Square Root of a Number
-- Temprature Conversion
+- Temprature Conversion (°C,°F)
 - History
